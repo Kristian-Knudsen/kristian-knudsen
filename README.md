@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kristian Knudsen</h1>
 <h3 align="center">A Software Engineering student from Denmark</h3>
 
-- 🔭 I’m currently working on [KPKore](https://github.com/Kristian-Knudsen/KPKore)
+- 🔭 I’m currently working on [KKore](https://github.com/Kristian-Knudsen/KKore)
 
-- 🌱 I’m currently learning **Vue and Typescript**
+- 🌱 I’m currently learning **Vue** and **Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,5 +82,4 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-
 </p>
