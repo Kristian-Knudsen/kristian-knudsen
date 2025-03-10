@@ -10,7 +10,4 @@
   <a href="https://linkedin.com/in/www.linkedin.com/in/kristian-pknudsen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kristian-pknudsen" height="40" width="40" />
   </a>
-  <a href="https://www.npmjs.com/~kristian-knudsen" target="blank">
-    <img align="center" src="https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png" alt="npmjs" height="40" width="40"> 
-  </a>
 </p>
