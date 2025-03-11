@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kristian Knudsen</h1>
-<h3 align="center">A Software Engineering student from Denmark</h3>
+<h3 align="center">A Software Engineer from Denmark</h3>
 
 - 🔭 I’m currently working on a order management system for small and mid sized companies
 - 🌱 I’m currently learning **Tauri** and **NestJS**
